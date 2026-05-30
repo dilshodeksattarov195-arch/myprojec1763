@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersrocess",
+        "uuid": 4282327,
+        "checksum": "4vmbpc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
